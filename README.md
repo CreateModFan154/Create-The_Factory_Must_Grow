@@ -12,12 +12,12 @@
 
 ## Info
 
-Create is by default a steam/clockpunk mod and most addons aim to expand this part of Create and do that pretty well,
-we thought the next natural expansion would be moving on from steampunk to dieselpunk.
+Create is by default a steam/clockpunk mod and most addons aim to expand this part of Create, and do that pretty well.
+We thought the next natural expansion would be moving on from steampunk to dieselpunk.
 We believe that create could be later used not just as a single steampunk tech mod,
 but due to its modularity and polishedness, it is a perfect base for other tech mods aiming to Create (get it) something new with it,
 essentially using it as a library.
-We wanna be the first ones to try and prove this concept.
+We want to be the first ones to try and prove this concept.
 
 <br>
 
@@ -36,6 +36,7 @@ We wanna be the first ones to try and prove this concept.
 * OIL!!!
 * Quad Potato Cannon
 * Flamethrowers
+* Electricity
 * And more..
 
 <br>
